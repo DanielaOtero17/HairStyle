@@ -20,6 +20,7 @@ public class VentanaPrincipal extends JFrame{
 		setTitle("HairStyle --- B I E N V E N I D O --- HairStyle");
 		setResizable(false);
 		
+		
 		setLayout(new BorderLayout());
 				
 		add(shampoo,BorderLayout.CENTER);
